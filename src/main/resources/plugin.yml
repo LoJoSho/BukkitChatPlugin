@@ -1,0 +1,6 @@
+name: AIChatBot
+version: ${project.version}
+main: me.lojosho.aichatbot.main
+api-version: 1.16
+authors: [ LoJoSho ]
+description: A simple chatbot
