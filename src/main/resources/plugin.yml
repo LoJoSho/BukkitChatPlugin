@@ -4,3 +4,6 @@ main: me.lojosho.aichatbot.main
 api-version: 1.16
 authors: [ LoJoSho ]
 description: A simple chatbot
+permissions:
+  ChatBot.Always:
+    description: Always gives out some FluffBot!
